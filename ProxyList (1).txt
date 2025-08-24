@@ -14,7 +14,6 @@
 96.9.212.246,443,SG,365 Group LLC
 5.223.55.245,8443,SG,Hetzner Online GmbH
 5.223.66.184,443,SG,Hetzner Online GmbH
-172.86.82.18,8880,SG,RouterHosting LLC
 194.233.67.216,8443,SG,Contabo Asia Private
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 34.101.86.59,443,ID,Google LLC
