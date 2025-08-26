@@ -24,6 +24,7 @@
 172.232.234.62,443,ID,Linode
 172.232.234.62,9377,ID,Linode
 172.232.231.191,10443,ID,Linode
+34.101.86.59,443,ID,Google Asia Pacific
 156.244.1.250,8443,ID,Lightnode Limited
 43.218.77.16,443,ID,Amazon.com, Inc.
 203.194.112.119,2053,ID,CV. Rumahweb Indonesia
