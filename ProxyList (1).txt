@@ -20,7 +20,8 @@
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 34.101.86.59,443,ID,Google LLC
 156.244.1.250,8443,ID,Lightnode Limited
-34.101.86.59,443,ID,Google Asia Pacific
+43.218.77.16,1443,ID,Amazon.com, Inc.
+172.232.248.227,587,ID,Linode
 156.244.1.250,8443,ID,Lightnode Limited
 43.218.77.16,443,ID,Amazon.com, Inc.
 203.194.112.119,2053,ID,CV. Rumahweb Indonesia
