@@ -14,7 +14,6 @@
 111.119.196.161,443,SG,Huawei-Cloud-SG
 167.253.158.63,8443,SG,365 Group LLC
 96.9.212.246,443,SG,365 Group LLC
-5.223.55.245,8443,SG,Hetzner Online GmbH
 5.223.66.184,443,SG,Hetzner Online GmbH
 194.233.67.216,8443,SG,Contabo Asia Private
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
